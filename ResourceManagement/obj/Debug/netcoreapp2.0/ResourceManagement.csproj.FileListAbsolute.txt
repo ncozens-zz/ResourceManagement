@@ -1,0 +1,14 @@
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagement.deps.json
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagement.runtimeconfig.json
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagement.runtimeconfig.dev.json
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagement.dll
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagement.pdb
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.csprojResolveAssemblyReference.cache
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.csproj.CoreCompileInputs.cache
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.AssemblyInfoInputs.cache
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.AssemblyInfo.cs
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.dll
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.pdb
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagementData.dll
+c:\Source\ResourceManagement\ResourceManagement\bin\Debug\netcoreapp2.0\ResourceManagementData.pdb
+c:\Source\ResourceManagement\ResourceManagement\obj\Debug\netcoreapp2.0\ResourceManagement.csproj.CopyComplete

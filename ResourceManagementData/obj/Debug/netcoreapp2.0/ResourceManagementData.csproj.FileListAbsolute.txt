@@ -1,0 +1,9 @@
+c:\Source\ResourceManagement\ResourceManagementData\bin\Debug\netcoreapp2.0\ResourceManagementData.deps.json
+c:\Source\ResourceManagement\ResourceManagementData\bin\Debug\netcoreapp2.0\ResourceManagementData.dll
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.csproj.CoreCompileInputs.cache
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.AssemblyInfoInputs.cache
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.AssemblyInfo.cs
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.csprojResolveAssemblyReference.cache
+c:\Source\ResourceManagement\ResourceManagementData\bin\Debug\netcoreapp2.0\ResourceManagementData.pdb
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.dll
+c:\Source\ResourceManagement\ResourceManagementData\obj\Debug\netcoreapp2.0\ResourceManagementData.pdb
